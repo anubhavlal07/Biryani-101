@@ -2,16 +2,25 @@
 
 * {
     font-family: "Nunito", sans-serif;
+    font-size: 1rem;
     color: #fff;
     background-color: #212529;
     margin: 0;
     padding: 0;
 }
 
+.text-center {
+    text-align: left;
+}
+
 .img {
     width: 55%;
     border-radius: 12px;
     cursor: pointer;
+}
+
+#fact {
+    font-size: 1.25rem;
 }
 
 #btn {
