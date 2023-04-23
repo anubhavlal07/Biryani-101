@@ -1,74 +1,74 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito&family=Poppins&display=swap");
 
 * {
-    font-family: "Nunito", sans-serif;
-    font-size: 1rem;
-    color: #fff;
-    background-color: #212529;
-    margin: 0;
-    padding: 0;
+  font-family: "Nunito", sans-serif;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #212529;
+  margin: 0;
+  padding: 0;
 }
 
 .text-center {
-    text-align: left;
+  text-align: left;
 }
 
 .img {
-    width: 55%;
-    border-radius: 12px;
-    cursor: pointer;
+  width: 55%;
+  border-radius: 12px;
+  cursor: pointer;
 }
 
 #fact {
-    font-size: 1.25rem;
+  font-size: 1.25rem;
 }
 
 #btn {
-    margin: 20px;
+  margin: 20px;
 }
 
 .disclaimer {
-    font-family: "Poppins", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 #bold {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 footer {
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    padding: 15px 23px;
-    padding-bottom: 0px;
-    color: #fff;
-    text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 15px 23px;
+  padding-bottom: 0px;
+  color: #fff;
+  text-align: center;
 }
 
 #link {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 footer span a {
-    color: #40e0d0;
-    text-decoration: none;
+  color: #40e0d0;
+  text-decoration: none;
 }
 
 footer span a:hover {
-    color: #fff;
-    text-decoration: wavy;
+  color: #fff;
+  text-decoration: wavy;
 }
 
 /*=============== SCROLL BAR ===============*/
 ::-webkit-scrollbar {
-    width: .6rem;
-    border-radius: .5rem;
-    background-color: hsl(207, 4%, 75%);
+  width: 0.6rem;
+  border-radius: 0.5rem;
+  background-color: hsl(207, 4%, 75%);
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: hsl(207, 4%, 65%);
-    border-radius: .5rem;
+  background-color: hsl(207, 4%, 65%);
+  border-radius: 0.5rem;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background-color: hsl(207, 4%, 55%);
+  background-color: hsl(207, 4%, 55%);
 }
