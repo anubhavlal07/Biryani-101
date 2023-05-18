@@ -17,8 +17,8 @@
   width: 55%;
   border-radius: 12px;
   cursor: pointer;
-  animation: fadeIn 5s;
-  animation: fadeOut 5s;
+  animation: fadeIn 7.5s;
+  animation: fadeOut 7.5s;
 }
 @keyframes fadeIn {
   0% {
